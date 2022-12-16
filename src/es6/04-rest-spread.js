@@ -26,4 +26,4 @@ function sum(num, ...values) {
     return num + values[0]
 }
 
-sum(1, 1, 2, 3);
+sum(1, 1, 2, 3, 4);
