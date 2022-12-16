@@ -6,7 +6,7 @@ function newUser(name, age, country) {
 }
 
 newUser();
-newUser('Mario', 15, 'MX');
+newUser('Carlos Mario', 15, 'MX');
 
 function newAdmin(name = 'Carlos', age = 51, country = 'US') {
     console.log(name, age, country);
