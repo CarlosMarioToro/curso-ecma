@@ -9,4 +9,4 @@ function newUser(user, age, country, uId) {
     }
 }
 
-console.log(newUser('Carlos', 51, 'CO', 1));
+console.log(newUser('Carlos Mario', 51, 'CO', 1));
