@@ -71,6 +71,6 @@ class user {
     }
 }
 
-const bebeloper1 = new user('David', 15);
+const bebeloper1 = new user('Carlos', 15);
 console.log(bebeloper1.uAge);
 console.log(bebeloper1.uAge = 20);
