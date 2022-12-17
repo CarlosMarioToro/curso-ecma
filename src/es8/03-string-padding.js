@@ -1,4 +1,4 @@
-const string = 'Hello';
+const string = 'Hellooo';
 
 console.log(string.padStart(1, '_'));
 console.log(string.padStart(2, '_'));
