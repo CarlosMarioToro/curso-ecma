@@ -8,7 +8,7 @@ class user {
     #speak() {
         return 'Hello'
     }
-    #greeting() {
+    greeting() {
         return `${this.speak()} ${this.name}`;
     }
 
